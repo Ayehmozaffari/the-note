@@ -1,1 +1,9 @@
-
+body{
+    background:linear-gradient(12deg,#ffb327,#cf56df,#d8159a) ;
+    background-repeat:no-repeat ;
+}
+#note{
+    background: #fff;
+    align-items: center;
+    flex-direction: column;
+}
